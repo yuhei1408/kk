@@ -1,3 +1,5 @@
-camera
+car
 cat
-dog
+other
+pencil
+sakura
